@@ -10,5 +10,5 @@ services:
     environment:
       - MYSQL_RANDOM_ROOT_PASSWORD=yes
       - MYSQL_DATABASE=base
-      - MYSQL_USER=student
-      - MYSQL_PASSWORD=netologystudent
+      - MYSQL_USER=adm
+      - MYSQL_PASSWORD=9mRE
